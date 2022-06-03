@@ -1,8 +1,7 @@
 # NodeRed-ejercicio
-Este repositorio contiene los archivos del ejemplo de git con github desde  terminal y otros plugins
+Este repositorio contiene el flow 1, el cual se actaulizará con el plugin de Github para Visual Studio Code
 
-Esta línea representa el commint realizado con terminal desde git a github
 
 Este es el primer commit con Source Control para el grupo 8
 
-Segundo commint 
+Este es el primmer commit con el plugin de github
